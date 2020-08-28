@@ -8,6 +8,9 @@ Perform analysis of ridesharing data between January to April of 2019 and presen
 - Software: anaconda3, python 3.7.7, jupyter notebook, matplotlib library
 
 ## Results
-
+First of all, let's create a buble chart that to visualize the initial raw data and see if any trends or correlations or anything else catches the eye right off the bat.
 ![](analysis/Fig1.png)
+
+Next, let's use a box and whiskers plot to look through the Ride data quesrtiles and study the the variation between Urban, Suburban and Rural city types.
+![](analysis/Fig2.png)
 
