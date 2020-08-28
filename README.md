@@ -9,10 +9,5 @@ Perform analysis of ridesharing data between January to April of 2019 and presen
 
 ## Results
 
-ffff
-
-https://github.com/sklimkov1990/PyBer_Analysis/blob/master/analysis/Fig1.png
-
-
-ffff
+![](analysis/Fig1.png)
 
