@@ -31,3 +31,4 @@ Our next box plot will show the variation in the Driver count data between the 3
 ![](analysis/Fig5.png)
 ![](analysis/Fig6.png)
 ![](analysis/Fig7.png)
+![](analysis/PyBer_fare_summary.png)
