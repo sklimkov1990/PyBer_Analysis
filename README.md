@@ -28,7 +28,17 @@ Our next box plot will show the variation in the Driver count data between the 3
 ![](analysis/Fig4.png)
 
 
+Next, we will show 3 pie charts, representing Ride count, Driver count, as well as Ride fare data for the same three city types: Urban, Suburban and Rural. 
+
 ![](analysis/Fig5.png)
 ![](analysis/Fig6.png)
 ![](analysis/Fig7.png)
+
+
+Lastly, let's show a line chart, showing the Total fare per city type data over the 4 months in 2019.
 ![](analysis/PyBer_fare_summary.png)
+
+
+## Summary
+
+f
