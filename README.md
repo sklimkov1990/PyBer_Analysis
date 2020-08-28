@@ -51,6 +51,6 @@ At the same time, we can see that drivers in Urban areas receive a smaller avera
 ## Business Recommendations
 
 - The management should consider to motivate Urban drivers relocate to the Rural areas, which would even out the average fare per driver
-- It might also make sense to bring more drivers out in all 3 city type areas during the last week of Feb, as the we can see a spike in total fares during that time (as we can see from the line chart)
-- The company should find a way to generate more rides in Rural and Suburban areas, where average fare per ride is more, but the number of rides combines is less than that of the Urban areas (1st pie chart shows it best)
+- It might also make sense to bring more drivers out in all 3 city type areas during the last week of Feb, as we can see a spike in total fares during that time (please, see the line chart)
+- The company should find a way to generate more rides in Rural and Suburban areas, where average fare per ride is more, but the combined number of rides is less than that of the Urban areas (1st pie chart shows it best)
 
