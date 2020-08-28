@@ -37,6 +37,7 @@ Next, we will show 3 pie charts, representing Ride count, Driver count, as well 
 
 Lastly, let's show a line chart, showing the Total fare per city type data over the 4 months in 2019 and the final Data frame as well.
 
+![](analysis/Fig8.png)
 ![](analysis/PyBer_fare_summary.png)
 
 
