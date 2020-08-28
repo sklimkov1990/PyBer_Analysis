@@ -44,4 +44,11 @@ Lastly, let's show a line chart, showing the Total fare per city type data over 
 
 ## Summary
 
+It is clear that riders spend more per ride in Rural areas, which could be explained by either higher price for services or longer distance rides there.
+Most of the company revenue during Jan - Apr 2019 came from Urban areas, where Total fares was the highest during that time.
+At the same time, we can see that drivers in Urban areas receive a smaller average fare than Rural and Suburban drivers, which is most likely caused by higher number of drivers in urban cities.
+
+## Business Recommendations
+
+- 
 
